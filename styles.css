@@ -1,0 +1,17 @@
+.form{
+    display: flex;
+    justify-self: center;
+    align-items: center;
+    margin: 200px;
+    flex-direction: column;
+    text-align: center;
+    padding: 30px;
+    background-color: rgba(94, 96, 206, 0.37);
+    border: 3px solid black;
+    border-radius: 50px;
+}
+
+.name {
+    padding: 10px;
+
+}
